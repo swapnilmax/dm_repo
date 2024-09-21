@@ -1,3 +1,5 @@
 Hello, Git Baby !
 
 This is my first git serious project, hope everything works well this time.
+
+Okay, now adding new feature.
